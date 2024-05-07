@@ -19,9 +19,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: dev1.rmusergroup.net
   baseUrl: /RMUG-Upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.rmusergroup.net/images/logo-2.png
   name: RM User Group Status
-  introTitle: "Live status for RM User Group services"
+  introTitle: "Live status for RM User Group"
   navbar:
     - title: Home
       href: https://rmusergroup.net
