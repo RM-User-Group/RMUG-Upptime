@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 408,
-    "timeDay": 408,
-    "timeWeek": 408,
-    "timeMonth": 408,
-    "timeYear": 408,
+    "time": 381,
+    "timeDay": 381,
+    "timeWeek": 381,
+    "timeMonth": 381,
+    "timeYear": 381,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 645,
-    "timeDay": 645,
-    "timeWeek": 645,
-    "timeMonth": 645,
-    "timeYear": 645,
+    "time": 586,
+    "timeDay": 586,
+    "timeWeek": 586,
+    "timeMonth": 586,
+    "timeYear": 586,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 817,
-    "timeDay": 817,
-    "timeWeek": 817,
-    "timeMonth": 817,
-    "timeYear": 817,
+    "time": 802,
+    "timeDay": 802,
+    "timeWeek": 802,
+    "timeMonth": 802,
+    "timeYear": 802,
     "dailyMinutesDown": {}
   },
   {
@@ -77,18 +77,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/crm.rmusergroup.net.ico",
     "slug": "rmug-crm",
     "status": "down",
-    "uptime": "41.36%",
-    "uptimeDay": "41.36%",
-    "uptimeWeek": "41.36%",
-    "uptimeMonth": "41.36%",
-    "uptimeYear": "41.36%",
+    "uptime": "25.98%",
+    "uptimeDay": "25.98%",
+    "uptimeWeek": "25.98%",
+    "uptimeMonth": "25.98%",
+    "uptimeYear": "25.98%",
     "time": 657,
     "timeDay": 657,
     "timeWeek": 657,
     "timeMonth": 657,
     "timeYear": 657,
     "dailyMinutesDown": {
-      "2024-05-07": 6
+      "2024-05-07": 12
     }
   }
 ]
