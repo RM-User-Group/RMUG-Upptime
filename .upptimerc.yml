@@ -29,7 +29,7 @@ status-website:
       href: /
 
   i18n:
-  footer: © 2024 RM User Group. The RM Logo is a trademark of [RM plc.](https://www.rm.com/)
+    footer: © 2024 RM User Group. The RM Logo is a trademark of [RM plc.](https://www.rm.com/)
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
