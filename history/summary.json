@@ -76,18 +76,19 @@
     "url": "https://crm.rmusergroup.net",
     "icon": "https://icons.duckduckgo.com/ip3/crm.rmusergroup.net.ico",
     "slug": "rmug-crm",
-    "status": "up",
-    "uptime": "76.13%",
-    "uptimeDay": "76.13%",
-    "uptimeWeek": "76.13%",
-    "uptimeMonth": "76.13%",
-    "uptimeYear": "76.13%",
+    "status": "down",
+    "uptime": "97.77%",
+    "uptimeDay": "97.77%",
+    "uptimeWeek": "97.77%",
+    "uptimeMonth": "97.77%",
+    "uptimeYear": "97.77%",
     "time": 530,
     "timeDay": 530,
     "timeWeek": 530,
     "timeMonth": 530,
     "timeYear": 530,
     "dailyMinutesDown": {
+      "2024-05-08": 0,
       "2024-05-07": 24
     }
   }
