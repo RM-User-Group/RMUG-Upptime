@@ -40,19 +40,19 @@
     "url": "https://installations.rmusergroup.net",
     "icon": "https://icons.duckduckgo.com/ip3/installations.rmusergroup.net.ico",
     "slug": "rmug-installations",
-    "status": "down",
-    "uptime": "99.73%",
-    "uptimeDay": "98.36%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.73%",
-    "time": 722,
-    "timeDay": 872,
-    "timeWeek": 722,
-    "timeMonth": 722,
-    "timeYear": 722,
+    "status": "up",
+    "uptime": "99.53%",
+    "uptimeDay": "97.20%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.53%",
+    "time": 711,
+    "timeDay": 719,
+    "timeWeek": 711,
+    "timeMonth": 711,
+    "timeYear": 711,
     "dailyMinutesDown": {
-      "2024-05-13": 24
+      "2024-05-13": 40
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://files.rmusergroup.net",
     "icon": "https://icons.duckduckgo.com/ip3/files.rmusergroup.net.ico",
     "slug": "rmug-files",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 722,
-    "timeDay": 789,
-    "timeWeek": 722,
-    "timeMonth": 722,
-    "timeYear": 722,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 723,
+    "timeDay": 768,
+    "timeWeek": 723,
+    "timeMonth": 723,
+    "timeYear": 723,
     "dailyMinutesDown": {
-      "2024-05-13": 0
+      "2024-05-13": 17
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://crm.rmusergroup.net",
     "icon": "https://icons.duckduckgo.com/ip3/crm.rmusergroup.net.ico",
     "slug": "rmug-crm",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 521,
-    "timeDay": 685,
-    "timeWeek": 521,
-    "timeMonth": 521,
-    "timeYear": 521,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 510,
+    "timeDay": 530,
+    "timeWeek": 510,
+    "timeMonth": 510,
+    "timeYear": 510,
     "dailyMinutesDown": {
-      "2024-05-13": 0
+      "2024-05-13": 17
     }
   }
 ]
