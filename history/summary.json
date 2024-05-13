@@ -40,9 +40,9 @@
     "url": "https://installations.rmusergroup.net",
     "icon": "https://icons.duckduckgo.com/ip3/installations.rmusergroup.net.ico",
     "slug": "rmug-installations",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 722,
     "timeMonth": 722,
     "timeYear": 722,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-13": 0
+    }
   },
   {
     "name": "RMUG Files",
