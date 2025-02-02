@@ -8,9 +8,9 @@ sites:
   - name: Remote Desktop
     url: https://remote.rmusergroup.net
   - name: RMUG Installations
-    url: https://installations.rmusergroup.net
+    url: https://installations.rmusergroup.net/login?direct=1
   - name: RMUG Files
-    url: https://files.rmusergroup.net
+    url: https://files.rmusergroup.net/login?direct=1
   - name: RMUG CRM
     url: https://crm.rmusergroup.net
 
@@ -29,7 +29,7 @@ status-website:
       href: /
 
   i18n:
-    footer: © 2024 RM User Group. The RM Logo is a trademark of [RM plc.](https://www.rm.com/)
+    footer: © 2025 RM User Group. The RM Logo is a trademark of [RM plc.](https://www.rm.com/)
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
