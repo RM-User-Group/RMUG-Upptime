@@ -1,7 +1,7 @@
 url: https://installations.rmusergroup.net/login?direct=1
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-02-25T10:53:11.078Z
+status: up
+code: 200
+responseTime: 794
+lastUpdated: 2025-02-25T10:59:40.392Z
 startTime: 2024-05-07T22:52:04.706Z
 generator: Upptime <https://github.com/upptime/upptime>
